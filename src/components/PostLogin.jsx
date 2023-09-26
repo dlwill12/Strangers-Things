@@ -5,6 +5,7 @@ export default function PostLogin({setIsLoggedIn}) {
 }
 
 function LogoutComponent({setIsLoggedIn}){
+    // deleteLoginCookie();
     return (<>
         <h2>You are logged in!</h2>
 </>)
