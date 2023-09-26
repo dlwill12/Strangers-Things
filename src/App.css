@@ -4,3 +4,50 @@
   padding: 2rem;
   text-align: center;
 }
+
+.header-top {
+  width: auto;
+  background-color: rgb(100, 124, 203);
+  padding: 10px;
+}
+#page {
+  text-decoration: none;
+  color: black !important;
+  padding: 20px !important;
+}
+
+.logo {
+  color: white;
+  font-size: 24px;
+}
+.post-title {
+  font-weight: bold;
+  padding-top: 25px;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+.main-container div {
+  background-color: rgb(100, 124, 203);
+  color: antiquewhite;
+  margin-top: 10px;
+}
+
+.flex-item {
+  background-color: rgb(207, 214, 251);
+  margin: 5px;
+  text-align: left;
+}
+
+#btn {
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(100, 124, 203);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
